@@ -1,4 +1,4 @@
-package com.escom.renderapi.controller;
+package com.escom.render_api.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
